@@ -12,8 +12,11 @@ Repository created for database activities
 * Clone the repository. <br>
 $ git clone https://github.com/Shift-ky/CURSO-BANCO-DE-DADOS
 
-* Running application <br>
-$  Open the file index.html in your browser, Now it's time to test the blog.
+* Building the application: <br>
+$ run build
+
+* Running application<br>
+$ Now it's time to test the apps
 
 ## Links
 
